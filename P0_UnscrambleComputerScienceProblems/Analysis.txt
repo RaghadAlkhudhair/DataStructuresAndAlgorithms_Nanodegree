@@ -1,0 +1,18 @@
+#Run time analysis
+This file explains the run time analysis (Worst Case Big O Notation) for algorithm execution in each task in the project. 
+
+
+## Task0
+This task has a worst case Big O Notation of O(1), because it only has access to an element in a list, and finding length of a list, where both have O(1) time complexity.
+
+## Task1
+This task has a worst case Big O Notation of O(n), because it iterates twice through python lists.
+
+## Task2
+This task has a worst case Big O Notation of O(n), because it iterates many times through python lists.
+
+## Task3
+This task has a worst case Big O Notation of O(n log n), because it has the sort() function that increases the complexity from O(n) that results from having loops interations through python lists.
+
+## Task4
+This task has a worst case Big O Notation of O(n log n), because it has the sort() function that increases the complexity from O(n) that results from having loops interations through python lists.
